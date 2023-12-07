@@ -2,7 +2,7 @@
 
 ## Prepare
 
-<!--TODO: If the monorepo is seperated, update this-->
+<!--TODO: If the monorepo is separated, update this-->
 
 Check the [Prepare](../README.md#prepare-1) and [Build and Update Bindings](../README.md#build-and-update-bindings) steps in the root directory.
 
